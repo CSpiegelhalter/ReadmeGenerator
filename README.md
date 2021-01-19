@@ -21,11 +21,7 @@
   ## Usage
     
   
-  <video width="320" height="240" controls>
-  <source src="./Assets/demo.webm" 
-
-  Your browser does not support the video tag.
-  </video>
+  <a href="https://drive.google.com/file/d/1BxKvAStoykyjH-qMCnIBfATFfetgJS1q/view" title="Walkthrough"><img src="./Assets/tutorial.png" alt="Walkthrough" /></a>
 
   ## License
   This project is under the None license.
