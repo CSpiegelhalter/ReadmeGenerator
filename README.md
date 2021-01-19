@@ -1,10 +1,10 @@
-# gas
+# ReadmeGenerator
 
-  [![License](https://img.shields.io/badge/License-BSD%203-blue.svg)](https://opensource.org/licenses/BSD-3)
+  No License
 
   ## Description
 
-  gas prices
+  Asks questions then fills out template with provided values.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -19,18 +19,19 @@
     npm i
   
   ## Usage
-    get it
+    
+  <iframe src="https://drive.google.com/file/d/1BxKvAStoykyjH-qMCnIBfATFfetgJS1q/preview" width="640" height="480"></iframe>
 
   ## License
-  This project is under the BSD 3 license.
+  This project is under the None license.
 
   ## Contributing
-  no
+  NA
 
   ## Tests
   To run tests, run the folowing command:
       
-    tests
+    NA
 
   ## Questions? 
   If you have any questions feel free to contact me directly at i16dcurt@gmail.com. 
